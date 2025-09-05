@@ -1,3 +1,4 @@
+Live : https://today-pay-assignment-self.vercel.app/
 React Quiz App 🧠
 This is a dynamic and interactive quiz application built with React. It's designed to be a simple, fun, and educational tool for testing general knowledge. The app fetches questions from an external API, provides a clean user interface, and tracks your score and high scores.
 
